@@ -1,4 +1,3 @@
-```md
 # Han Minyeop 👋
 
 Backend Developer
@@ -67,4 +66,3 @@ Backend Developer
 ## 📫 How to Reach Me
 
 - Email: han.minyeop.dev@gmail.com
-```
