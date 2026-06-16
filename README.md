@@ -1,3 +1,4 @@
+```md
 # Han Minyeop 👋
 
 Backend Developer
@@ -15,9 +16,9 @@ Backend Developer
 ### Framework
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring JPA](https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Database
 
@@ -26,12 +27,14 @@ Backend Developer
 
 ### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### AI
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://img.shields.io/badge/Claude_Code-555?logo=claude)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -41,22 +44,17 @@ Backend Developer
 
 **React · Spring Boot · AI**
 
-- 계약서 업로드
-- 위험 조항 탐지
-- 문서 요약
-- 일정 알림
-
----
+- 추가예정
 
 ### 🎫 Concert Reservation System
 
 **Java · JDBC · Oracle Database**
 
-- 회원가입 및 로그인
 - 공연 조회
 - 좌석 선택 및 예매
 - 예매 내역 조회
 
+---
 
 ## 🌱 Contribution Activity
 
@@ -69,3 +67,4 @@ Backend Developer
 ## 📫 How to Reach Me
 
 - Email: han.minyeop.dev@gmail.com
+```
