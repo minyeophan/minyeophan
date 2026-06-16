@@ -25,10 +25,4 @@ Java와 Spring 기반의 서버 개발에 관심이 있으며,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyeophan&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyeophan&layout=compact&theme=tokyonight&hide_border=true)
