@@ -39,13 +39,13 @@ Backend Developer
 
 ## 📌 Projects
 
-### ⚖️ AI Legal Document Risk Detector (In Progress)
+### AI법률 닥터
 
 **React · Spring Boot · AI**
 
 - 추가예정
 
-### 🎫 Concert Reservation System
+### 공연 예매 프로젝트
 
 **Java · JDBC · Oracle Database**
 
