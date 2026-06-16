@@ -1,10 +1,10 @@
-```md
 <div align="center">
 
 # 안녕하세요, 한민엽입니다 👋
 
 - 백엔드 개발자를 꿈꾸는 한민엽입니다
 - Java/Spring 기반의 서버 개발에 관심이 있습니다
+
 <br/>
 
 ## 🛠 Tech Stack
@@ -23,15 +23,10 @@
 
 ## 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksalsduq2&layout=compact&theme=tokyonight&hide_border=true" 
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksalsduq2&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=gksalsduq2&show_icons=true&theme=tokyonight&hide_border=true" 
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=gksalsduq2&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
-```
