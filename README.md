@@ -21,16 +21,6 @@ Backend Developer
 
 - 추가예정
 
-### 공연 예매 프로젝트
-
-**Java · JDBC · Oracle Database**
-
-- 공연 조회
-- 좌석 선택 및 예매
-- 예매 내역 조회
-
----
-
 ## 📫 How to Reach Me
 
 - Email: han.minyeop.dev@gmail.com
