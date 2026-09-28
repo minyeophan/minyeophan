@@ -9,4 +9,4 @@
 - 신한DS SW 아카데미 <sub>(2026.05 ~ Now)</sub>
 
 ### Contact
-- Email: han.minyeop.dev@gmail.com
+- Email: hanminyeop.dev@gmail.com
