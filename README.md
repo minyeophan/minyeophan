@@ -6,7 +6,7 @@
 - [AI 법률 닥터](https://github.com/minyeophan/AI_LawDoctor) - AI 기반 부동산 계약서 분석 서비스 <sub>(2026.03 ~ 2026.05)</sub>
 
 ### Experience
-- 신한DS SW 아카데미 <sub>(2026.05 ~ Now)</sub>
+- 신한DS SW 아카데미 <sub>(2026.05 ~ 2026.11)</sub>
 
 ### Contact
 - Email: hanminyeop.dev@gmail.com
